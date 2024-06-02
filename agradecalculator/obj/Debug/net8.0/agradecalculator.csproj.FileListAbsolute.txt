@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\odofe\agradecalculator\bin\Debug\net8.0\agradecalculator.exe
+C:\Users\DELL\Documents\odofe\agradecalculator\bin\Debug\net8.0\agradecalculator.deps.json
+C:\Users\DELL\Documents\odofe\agradecalculator\bin\Debug\net8.0\agradecalculator.runtimeconfig.json
+C:\Users\DELL\Documents\odofe\agradecalculator\bin\Debug\net8.0\agradecalculator.dll
+C:\Users\DELL\Documents\odofe\agradecalculator\bin\Debug\net8.0\agradecalculator.pdb
+C:\Users\DELL\Documents\odofe\agradecalculator\obj\Debug\net8.0\agradecalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\odofe\agradecalculator\obj\Debug\net8.0\agradecalculator.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\odofe\agradecalculator\obj\Debug\net8.0\agradecalculator.AssemblyInfo.cs
+C:\Users\DELL\Documents\odofe\agradecalculator\obj\Debug\net8.0\agradecalculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\odofe\agradecalculator\obj\Debug\net8.0\agradecalculator.sourcelink.json
+C:\Users\DELL\Documents\odofe\agradecalculator\obj\Debug\net8.0\agradecalculator.dll
+C:\Users\DELL\Documents\odofe\agradecalculator\obj\Debug\net8.0\refint\agradecalculator.dll
+C:\Users\DELL\Documents\odofe\agradecalculator\obj\Debug\net8.0\agradecalculator.pdb
+C:\Users\DELL\Documents\odofe\agradecalculator\obj\Debug\net8.0\agradecalculator.genruntimeconfig.cache
+C:\Users\DELL\Documents\odofe\agradecalculator\obj\Debug\net8.0\ref\agradecalculator.dll
