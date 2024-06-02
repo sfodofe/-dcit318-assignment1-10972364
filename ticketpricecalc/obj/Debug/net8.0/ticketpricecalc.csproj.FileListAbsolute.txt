@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\odofe\ticketpricecalc\bin\Debug\net8.0\ticketpricecalc.exe
+C:\Users\DELL\Documents\odofe\ticketpricecalc\bin\Debug\net8.0\ticketpricecalc.deps.json
+C:\Users\DELL\Documents\odofe\ticketpricecalc\bin\Debug\net8.0\ticketpricecalc.runtimeconfig.json
+C:\Users\DELL\Documents\odofe\ticketpricecalc\bin\Debug\net8.0\ticketpricecalc.dll
+C:\Users\DELL\Documents\odofe\ticketpricecalc\bin\Debug\net8.0\ticketpricecalc.pdb
+C:\Users\DELL\Documents\odofe\ticketpricecalc\obj\Debug\net8.0\ticketpricecalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\odofe\ticketpricecalc\obj\Debug\net8.0\ticketpricecalc.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\odofe\ticketpricecalc\obj\Debug\net8.0\ticketpricecalc.AssemblyInfo.cs
+C:\Users\DELL\Documents\odofe\ticketpricecalc\obj\Debug\net8.0\ticketpricecalc.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\odofe\ticketpricecalc\obj\Debug\net8.0\ticketpricecalc.sourcelink.json
+C:\Users\DELL\Documents\odofe\ticketpricecalc\obj\Debug\net8.0\ticketpricecalc.dll
+C:\Users\DELL\Documents\odofe\ticketpricecalc\obj\Debug\net8.0\refint\ticketpricecalc.dll
+C:\Users\DELL\Documents\odofe\ticketpricecalc\obj\Debug\net8.0\ticketpricecalc.pdb
+C:\Users\DELL\Documents\odofe\ticketpricecalc\obj\Debug\net8.0\ticketpricecalc.genruntimeconfig.cache
+C:\Users\DELL\Documents\odofe\ticketpricecalc\obj\Debug\net8.0\ref\ticketpricecalc.dll
