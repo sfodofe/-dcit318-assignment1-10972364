@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\odofe\triangletype\bin\Debug\net8.0\triangletype.exe
+C:\Users\DELL\Documents\odofe\triangletype\bin\Debug\net8.0\triangletype.deps.json
+C:\Users\DELL\Documents\odofe\triangletype\bin\Debug\net8.0\triangletype.runtimeconfig.json
+C:\Users\DELL\Documents\odofe\triangletype\bin\Debug\net8.0\triangletype.dll
+C:\Users\DELL\Documents\odofe\triangletype\bin\Debug\net8.0\triangletype.pdb
+C:\Users\DELL\Documents\odofe\triangletype\obj\Debug\net8.0\triangletype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\odofe\triangletype\obj\Debug\net8.0\triangletype.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\odofe\triangletype\obj\Debug\net8.0\triangletype.AssemblyInfo.cs
+C:\Users\DELL\Documents\odofe\triangletype\obj\Debug\net8.0\triangletype.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\odofe\triangletype\obj\Debug\net8.0\triangletype.sourcelink.json
+C:\Users\DELL\Documents\odofe\triangletype\obj\Debug\net8.0\triangletype.dll
+C:\Users\DELL\Documents\odofe\triangletype\obj\Debug\net8.0\refint\triangletype.dll
+C:\Users\DELL\Documents\odofe\triangletype\obj\Debug\net8.0\triangletype.pdb
+C:\Users\DELL\Documents\odofe\triangletype\obj\Debug\net8.0\triangletype.genruntimeconfig.cache
+C:\Users\DELL\Documents\odofe\triangletype\obj\Debug\net8.0\ref\triangletype.dll
